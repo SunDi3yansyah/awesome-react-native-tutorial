@@ -51,3 +51,4 @@ build-iPhoneSimulator/
 
 # awesome_bot
 /*.md-*.json
+/*.md.json
