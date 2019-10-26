@@ -4,12 +4,14 @@ GEM
     awesome_bot (1.19.1)
       parallel (= 1.17.0)
     parallel (1.17.0)
+    rake (13.0.0)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   awesome_bot
+  rake
 
 RUBY VERSION
    ruby 2.6.3p62
