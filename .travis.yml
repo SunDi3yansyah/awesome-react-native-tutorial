@@ -8,7 +8,7 @@ branches:
 cache: bundler
 before_install:
   - travis_retry gem update --system
-  - travis_retry gem install bundler awesome_bot
+  - travis_retry gem install bundler rake awesome_bot
 install:
   - travis_retry bundle install
   - travis_retry bundle update
